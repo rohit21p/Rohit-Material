@@ -1,7 +1,7 @@
 import React from 'react';
 
-function HelloWorld() {
+function Button() {
     return <button>Test</button>
 }
 
-export default HelloWorld;
+export default Button;
